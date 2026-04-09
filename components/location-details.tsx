@@ -119,7 +119,7 @@ export function LocationDetails({
           />
 
           <Metric
-            label="Natural Feature"
+            label="Nature of the Site"
             value={selectedMediaPoint?.natural_feature_name}
             className="mt-3"
           />
